@@ -1,0 +1,35 @@
+//
+//  LKPodsTests.m
+//  LKPodsTests
+//
+//  Created by acct<blob>=0x4B4643E698AFE5819AE59FBAE79A84  KFC463057450132453772473204 on 03/09/2021.
+//  Copyright (c) 2021 acct<blob>=0x4B4643E698AFE5819AE59FBAE79A84  KFC463057450132453772473204. All rights reserved.
+//
+
+@import XCTest;
+
+@interface Tests : XCTestCase
+
+@end
+
+@implementation Tests
+
+- (void)setUp
+{
+    [super setUp];
+    // Put setup code here. This method is called before the invocation of each test method in the class.
+}
+
+- (void)tearDown
+{
+    // Put teardown code here. This method is called after the invocation of each test method in the class.
+    [super tearDown];
+}
+
+- (void)testExample
+{
+    XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
+}
+
+@end
+
