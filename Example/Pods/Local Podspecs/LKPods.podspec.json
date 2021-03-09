@@ -1,0 +1,22 @@
+{
+  "name": "LKPods",
+  "version": "0.1.0",
+  "summary": "A short description of LKPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acct<blob>=0x4B4643E698AFE5819AE59FBAE79A84  KFC463057450132453772473204/LKPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FULANS": "15195896086@163.com"
+  },
+  "source": {
+    "git": "https://github.com/FULANS/LKPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LKPods/Classes/**/*"
+}

@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/acct<blob>=0x4B4643E698AFE5819AE59FBAE79A84  KFC463057450132453772473204/LKPods'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'acct<blob>=0x4B4643E698AFE5819AE59FBAE79A84  KFC463057450132453772473204' => '15195896086@163.com' }
-  s.source           = { :git => 'https://github.com/acct<blob>=0x4B4643E698AFE5819AE59FBAE79A84  KFC463057450132453772473204/LKPods.git', :tag => s.version.to_s }
+  s.author           = { 'FULANS' => '15195896086@163.com' }
+  s.source           = { :git => 'https://github.com/FULANS/LKPods.git', :tag => '0.1.0' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

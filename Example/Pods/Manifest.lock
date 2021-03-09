@@ -1,0 +1,16 @@
+PODS:
+  - LKPods (0.1.0)
+
+DEPENDENCIES:
+  - LKPods (from `../`)
+
+EXTERNAL SOURCES:
+  LKPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LKPods: c6cc3e8212547c9edd7be33d0f3b1212dad3b3fa
+
+PODFILE CHECKSUM: dbe4785b9f00aa073fc7274bdb4681e5ae33f773
+
+COCOAPODS: 1.9.3
